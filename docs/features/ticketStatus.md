@@ -11,6 +11,7 @@ A ticket status have sveral properties that can be used.
 The default statuses are
 - New
 - In progress
+- Answerd
 - Resolved
 
 ## Notifications
@@ -19,3 +20,7 @@ The default statuses are
 ## References
 - [Properties](/docs/references/tables.html#usupportticketstatus)
 - [uSupportTicketStatusService](/docs/references/services.html#usupportticketstatusservice)
+
+## Screenshots
+
+<img src="/assets/ticketStatus.PNG">

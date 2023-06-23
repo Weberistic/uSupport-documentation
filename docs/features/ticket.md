@@ -13,3 +13,7 @@ nav_order: 1
 ## References
 - [Properties](/docs/references/tables.html#usupportticket)
 - [uSupportTicketService](/docs/references/services.html#usupportticketservice)
+
+## Screenshots
+
+<img src="/assets/editTicket.PNG">

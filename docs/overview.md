@@ -6,3 +6,5 @@ nav_order: 2
 
 # Overview
 
+## Getting started with uSupport
+In order to view uSupports admin section. You will need to assign uSupport section to the desired user group. [You can read more here.](https://docs.umbraco.com/umbraco-cms/fundamentals/data/users#creating-a-user-group) 

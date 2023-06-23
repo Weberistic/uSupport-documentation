@@ -21,3 +21,7 @@ The default types are
 ## References
 - [Properties](/docs/references/tables.html#usupporttickettype)
 - [uSupportTicketTypeService](/docs/references/services.html#usupporttickettypeservice)
+
+## Screenshots
+
+<img src="/assets/ticketTypes.PNG">

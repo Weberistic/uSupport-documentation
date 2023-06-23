@@ -7,6 +7,8 @@ url: https://weberistic.github.io/uSupport-documentation/
 aux_links:
   Template Repository: https://github.com/Weberistic/uSupport-documentation
 
+color_scheme: uSupport
+
 back_to_top: true
 back_to_top_text: "Back to top"
 
@@ -28,7 +30,7 @@ callouts:
     color: green
   note:
     title: Note
-    color: purple
+    color: green
   warning:
     title: Warning
     color: red

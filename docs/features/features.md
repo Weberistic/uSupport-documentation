@@ -6,7 +6,7 @@ has_children: true
 ---
 # Features
 * Friendly UI
-* Customizable ticket types & statuses
+* Customizable ticket [types](/docs/features/ticketType.html) & [statuses](/features/ticketStatus.html)
 * Comment on tickets
 * Email notifications
 * Ticketing dashboard

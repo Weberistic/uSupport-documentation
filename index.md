@@ -4,7 +4,9 @@ layout: home
 nav_order: 1
 ---
 
-# uSupport Documentation
+<img src="/assets/usupport.svg" alt="logotype" style="height: 110px; margin: 0 auto; display: block;">
+
+---
 
 {: .note }
 The documentation is still a work in progress. More detailed documentation is coming soon.
@@ -19,8 +21,9 @@ Instead of managing your clients Umbraco issues via email. Why not keep them in 
 ## How uSupport works
 
 1. Click create ticket
-2. Choose a ticket type
-3. Fill in the details
-4. Click create
-5. Ticket gets created with the default ticket status
+2. Choose a [ticket type](/docs/features/ticketType.html)
+3. Fill in the details & Click create ticket
+<img src="/assets/ticketDetails.PNG">
+
+5. Ticket gets created with the default [ticket status](/docs/features/ticketStatus.html)
 6. If the update email is setup an email will be sent
