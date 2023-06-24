@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-<img src="https://weberistic.github.io/uSupport-documentation/assets/usupport.svg" alt="logotype" style="height: 110px; margin: 0 auto; display: block;">
+<img src="/uSupport-documentation/assets/usupport.svg" alt="logotype" style="height: 110px; margin: 0 auto; display: block;">
 
 ---
 
@@ -20,7 +20,7 @@ Say goodbye to the days of digging through countless old emails in search of vit
 ## Key features
 
 * Friendly UI
-* Customizable ticket [types](/docs/features/ticketType.html) & [statuses](/features/ticketStatus.html)
+* Customizable ticket [types](/uSupport-documentation/docs/features/ticketType.html) & [statuses](/uSupport-documentation/docs/features/ticketStatus.html)
 * Comment on tickets
 * Email notifications
 * Ticketing dashboard
@@ -28,35 +28,35 @@ Say goodbye to the days of digging through countless old emails in search of vit
 ## How to create a ticket
 
 **Step 1**. Click create ticket
-<img src="https://weberistic.github.io/uSupport-documentation/assets/createTicket/step1.png">
+<img src="/uSupport-documentation/assets/createTicket/step1.png">
 
 ---
 
-**Step 2**. Choose a [ticket type](/docs/features/ticketType.html)
-<img src="https://weberistic.github.io/uSupport-documentation/assets/createTicket/step2.png">
+**Step 2**. Choose a [ticket type](/uSupport-documentation/docs/features/ticketType.html)
+<img src="/uSupport-documentation/assets/createTicket/step2.png">
 
 ---
 
 **Step 3**. If the selected ticket type has a Umbraco property like the default "Page error". This step appears otherwise it would go to step 4.
-<img src="https://weberistic.github.io/uSupport-documentation/assets/createTicket/step3.png">
+<img src="/uSupport-documentation/assets/createTicket/step3.png">
 
 ---
 
 **Step 4**. Fill in the details & Click create ticket
-<img src="https://weberistic.github.io/uSupport-documentation/assets/createTicket/step4.PNG">
+<img src="/uSupport-documentation/assets/createTicket/step4.PNG">
 
 ---
 
 **Step 5**.
-Ticket gets created with the default [ticket status](/docs/features/ticketStatus.html)
+Ticket gets created with the default [ticket status](/uSupport-documentation/docs/features/ticketStatus.html)
 
 ---
 
 **Step 6**.
  If "TicketUpdateEmail" and the SMTP setting are setup an email will be sent to the "TicketUpdateEmail" adress.
- <img src="https://weberistic.github.io/uSupport-documentation/assets/createTicket/step6.PNG">
+ <img src="/uSupport-documentation/assets/createTicket/step6.PNG">
 
 ---
 
 **Step 7**. You just created your first ticket! Now await a response!
- <img src="https://weberistic.github.io/uSupport-documentation/assets/createTicket/step7.PNG">
+ <img src="/uSupport-documentation/assets/createTicket/step7.PNG">

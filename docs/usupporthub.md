@@ -4,7 +4,7 @@ title: uSupportHub
 nav_order: 9
 ---
 
-<img src="https://weberistic.github.io/uSupport-documentation/assets/husupnode.png" alt="logotype" style="height: 120px; margin: 0 auto; display: block;">
+<img src="/uSupport-documentation/assets/husupnode.png" alt="logotype" style="height: 120px; margin: 0 auto; display: block;">
 
 ---
 

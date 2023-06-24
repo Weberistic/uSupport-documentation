@@ -18,12 +18,12 @@ The default statuses are
 - Resolved
 
 ## Notifications
-[Read more about notifications](/docs/extend.html#extend)
+[Read more about notifications](/uSupport-documentation/docs/extend.html#extend)
 
 ## References
-- [Properties](/docs/references/tables.html#usupportticketstatus)
-- [uSupportTicketStatusService](/docs/references/services.html#usupportticketstatusservice)
+- [Properties](/uSupport-documentation/docs/references/tables.html#usupportticketstatus)
+- [uSupportTicketStatusService](/uSupport-documentation/docs/references/services.html#usupportticketstatusservice)
 
 ## Screenshots
 
-<img src="https://weberistic.github.io/uSupport-documentation/assets/ticketStatus.PNG">
+<img src="/uSupport-documentation/assets/ticketStatus.PNG">

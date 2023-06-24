@@ -57,4 +57,4 @@ Default value: **/App_Plugins/uSupport/templates/UpdateTicketEmail.cshtml**
 ```
        
 ## References
-- [uSupportSettingsService](/docs/references/services.html#usupportsettingsservice)
+- [uSupportSettingsService](/uSupport-documentation/docs/references/services.html#usupportsettingsservice)
