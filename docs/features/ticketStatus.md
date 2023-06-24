@@ -4,8 +4,11 @@ title: Ticket status
 parent: Features
 nav_order: 3
 ---
-# Ticket statuses
 
+{: .note }
+The documentation is still a work in progress. More details is coming soon.
+
+# Ticket statuses
 A ticket status have sveral properties that can be used.
 
 The default statuses are
@@ -23,4 +26,4 @@ The default statuses are
 
 ## Screenshots
 
-<img src="/assets/ticketStatus.PNG">
+<img src="https://weberistic.github.io/uSupport-documentation/assets/ticketStatus.PNG">

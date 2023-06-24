@@ -4,6 +4,9 @@ title: Extending
 nav_order: 7
 ---
 
+{: .note }
+The documentation is still a work in progress. More details is coming soon.
+
 # Extending
 
 If you want something to happen when a ticket is created? Like send additional email. As of uSupport version **2.0.0** we've added Notifications

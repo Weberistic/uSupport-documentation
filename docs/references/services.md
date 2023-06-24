@@ -5,6 +5,9 @@ parent: References
 nav_order: 2
 ---
 
+{: .note }
+The documentation is still a work in progress. More details is coming soon.
+
 ## uSupportTicketService
 ```c#
 IEnumerable<uSupportTicket> GetAll();

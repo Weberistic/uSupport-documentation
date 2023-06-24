@@ -5,6 +5,9 @@ parent: Features
 nav_order: 4
 ---
 
+{: .note }
+The documentation is still a work in progress. More details is coming soon.
+
 # Comment
 
 ## Notifications

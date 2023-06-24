@@ -4,26 +4,59 @@ layout: home
 nav_order: 1
 ---
 
-<img src="/assets/usupport.svg" alt="logotype" style="height: 110px; margin: 0 auto; display: block;">
+<img src="https://weberistic.github.io/uSupport-documentation/assets/usupport.svg" alt="logotype" style="height: 110px; margin: 0 auto; display: block;">
 
 ---
 
 {: .note }
-The documentation is still a work in progress. More detailed documentation is coming soon.
-
+The documentation is still a work in progress. More details is coming soon.
 
 ## What is uSupport
 uSupport is an feature rich ticketing system designed specifically for the Umbraco. It is a complete ticketing solution that enables users to create, manage, and view tickets and their associated comments. With uSupport, you can quickly and easily create and manage tickets. uSupport is highly customizable, allowing users to set up their own ticket types and define ticket statuses.
 
 ## Why uSupport
-Instead of managing your clients Umbraco issues via email. Why not keep them in Umbraco. uSupport is highly flexable and customizable to make sure it fits your needs. No more rummaging through old emails to find the details of what needs to be fixed.
+Say goodbye to the days of digging through countless old emails in search of vital details. With uSupport, everything you need is neatly organized within the Umbraco environment. Streamline your workflow, boost productivity, and effortlessly access all the information you need to address and resolve client issues efficiently.
 
-## How uSupport works
+## Key features
 
-1. Click create ticket
-2. Choose a [ticket type](/docs/features/ticketType.html)
-3. Fill in the details & Click create ticket
-<img src="/assets/ticketDetails.PNG">
+* Friendly UI
+* Customizable ticket [types](/docs/features/ticketType.html) & [statuses](/features/ticketStatus.html)
+* Comment on tickets
+* Email notifications
+* Ticketing dashboard
 
-5. Ticket gets created with the default [ticket status](/docs/features/ticketStatus.html)
-6. If the update email is setup an email will be sent
+## How to create a ticket
+
+**Step 1**. Click create ticket
+<img src="https://weberistic.github.io/uSupport-documentation/assets/createTicket/step1.png">
+
+---
+
+**Step 2**. Choose a [ticket type](/docs/features/ticketType.html)
+<img src="https://weberistic.github.io/uSupport-documentation/assets/createTicket/step2.png">
+
+---
+
+**Step 3**. If the selected ticket type has a Umbraco property like the default "Page error". This step appears otherwise it would go to step 4.
+<img src="https://weberistic.github.io/uSupport-documentation/assets/createTicket/step3.png">
+
+---
+
+**Step 4**. Fill in the details & Click create ticket
+<img src="https://weberistic.github.io/uSupport-documentation/assets/createTicket/step4.PNG">
+
+---
+
+**Step 5**.
+Ticket gets created with the default [ticket status](/docs/features/ticketStatus.html)
+
+---
+
+**Step 6**.
+ If "TicketUpdateEmail" and the SMTP setting are setup an email will be sent to the "TicketUpdateEmail" adress.
+ <img src="https://weberistic.github.io/uSupport-documentation/assets/createTicket/step6.PNG">
+
+---
+
+**Step 7**. You just created your first ticket! Now await a response!
+ <img src="https://weberistic.github.io/uSupport-documentation/assets/createTicket/step7.PNG">

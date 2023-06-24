@@ -5,6 +5,10 @@ parent: References
 nav_order: 1
 ---
 
+{: .note }
+The documentation is still a work in progress. More details is coming soon.
+
+
 ## uSupportTicket
 ```c#
 public Guid Id { get; set; }

@@ -33,7 +33,7 @@ callouts:
     color: green
   warning:
     title: Warning
-    color: red
+    color: yellow
 
 kramdown:
   syntax_highlighter_opts:

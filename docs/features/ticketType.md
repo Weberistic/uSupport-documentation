@@ -4,6 +4,10 @@ title: Ticket type
 parent: Features
 nav_order: 2
 ---
+
+{: .note }
+The documentation is still a work in progress. More details is coming soon.
+
 # Ticket types
 Ticket types are used to better categorzie tickets.
 
@@ -15,6 +19,22 @@ The default types are
 - Page error
 - General question
 
+### Umbraco property
+You can add a Umbraco data type to a ticket type if you want the user to provide more structured data. Like eg "Page error" instead of making the user explain what page their having trouble with. They can just pick it with a content picker.
+
+{: .warning }
+>  Unsupported data types:
+> - Umbraco.MultiNodeTreePicker
+> - Umbraco.MemberGroupPicker
+> - Umbraco.NestedContent
+> - Umbraco.MediaPicker3
+> - Umbraco.MemberPicker
+> - Umbraco.UserPicker
+> - Umbraco.BlockList
+> - Umbraco.ListView
+> - Umbraco.Label
+> - Umbraco.Grid
+
 ## Notifications
 [Read more about notifications](/docs/extend.html#extend)
 
@@ -24,4 +44,4 @@ The default types are
 
 ## Screenshots
 
-<img src="/assets/ticketTypes.PNG">
+<img src="https://weberistic.github.io/uSupport-documentation/assets/ticketTypes.PNG">
