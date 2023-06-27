@@ -11,7 +11,7 @@ The documentation is still a work in progress. More details is coming soon.
 # Features
 
 * Friendly UI
-* Customizable ticket [types](/uSupport-documentation/docs/features/ticketType.html) & [statuses](/uSupport-documentation/features/ticketStatus.html)
+* Customizable ticket [types](/uSupport-documentation/docs/features/ticketType) & [statuses](/uSupport-documentation/features/ticketStatus)
 * Comment on tickets
 * Email notifications
 * Ticketing dashboard

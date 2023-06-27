@@ -11,8 +11,8 @@ The documentation is still a work in progress. More details is coming soon.
 # Comment
 
 ## Notifications
-[Read more about notifications](/uSupport-documentation/docs/extending.html#extend)
+[Read more about notifications](/uSupport-documentation/docs/extending)
 
 ## References
-- [Properties](/uSupport-documentation/docs/references/tables.html#usupportticketcomment)
-- [uSupportTicketStatusService](/uSupport-documentation/docs/references/tables.html#usupportticketcomment)
+- [Properties](/uSupport-documentation/docs/references/tables#usupportticketcomment)
+- [uSupportTicketStatusService](/uSupport-documentation/docs/references/tables#usupportticketcomment)

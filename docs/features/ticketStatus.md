@@ -18,11 +18,11 @@ The default statuses are
 - Resolved
 
 ## Notifications
-[Read more about notifications](/uSupport-documentation/docs/extending.html#extend)
+[Read more about notifications](/uSupport-documentation/docs/extending)
 
 ## References
-- [Properties](/uSupport-documentation/docs/references/tables.html#usupportticketstatus)
-- [uSupportTicketStatusService](/uSupport-documentation/docs/references/services.html#usupportticketstatusservice)
+- [Properties](/uSupport-documentation/docs/references/tables#usupportticketstatus)
+- [uSupportTicketStatusService](/uSupport-documentation/docs/references/services#usupportticketstatusservice)
 
 ## Screenshots
 
