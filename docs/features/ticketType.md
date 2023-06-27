@@ -36,7 +36,7 @@ You can add a Umbraco data type to a ticket type if you want the user to provide
 > - Umbraco.Grid
 
 ## Notifications
-[Read more about notifications](/uSupport-documentation/docs/extend.html#extend)
+[Read more about notifications](/uSupport-documentation/docs/extending.html#extend)
 
 ## References
 - [Properties](//uSupport-documentationdocs/references/tables.html#usupporttickettype)

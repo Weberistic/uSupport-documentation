@@ -18,7 +18,7 @@ The default statuses are
 - Resolved
 
 ## Notifications
-[Read more about notifications](/uSupport-documentation/docs/extend.html#extend)
+[Read more about notifications](/uSupport-documentation/docs/extending.html#extend)
 
 ## References
 - [Properties](/uSupport-documentation/docs/references/tables.html#usupportticketstatus)
