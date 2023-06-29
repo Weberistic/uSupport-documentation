@@ -20,7 +20,7 @@ Say goodbye to the days of digging through countless old emails in search of vit
 ## Key features
 
 * Friendly UI
-* Customizable ticket [types](/uSupport-documentation/docs/features/ticketType.html) & [statuses](/uSupport-documentation/docs/features/ticketStatus.html)
+* Customizable ticket [types](/uSupport-documentation/docs/features/ticketType) & [statuses](/uSupport-documentation/docs/features/ticketStatus)
 * Comment on tickets
 * Email notifications
 * Ticketing dashboard
@@ -32,7 +32,7 @@ Say goodbye to the days of digging through countless old emails in search of vit
 
 ---
 
-**Step 2**. Choose a [ticket type](/uSupport-documentation/docs/features/ticketType.html)
+**Step 2**. Choose a [ticket type](/uSupport-documentation/docs/features/ticketType)
 <img src="/uSupport-documentation/assets/createTicket/step2.png">
 
 ---
@@ -48,7 +48,7 @@ Say goodbye to the days of digging through countless old emails in search of vit
 ---
 
 **Step 5**.
-Ticket gets created with the default [ticket status](/uSupport-documentation/docs/features/ticketStatus.html)
+Ticket gets created with the default [ticket status](/uSupport-documentation/docs/features/ticketStatus)
 
 ---
 

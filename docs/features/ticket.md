@@ -11,11 +11,11 @@ The documentation is still a work in progress. More details is coming soon.
 # Ticket
 
 ## Notifications
-[Read more about notifications](/uSupport-documentation/docs/extend.html#extend)
+[Read more about notifications](/uSupport-documentation/docs/extending)
 
 ## References
-- [Properties](/uSupport-documentation/docs/references/tables.html#usupportticket)
-- [uSupportTicketService](/uSupport-documentation/docs/references/services.html#usupportticketservice)
+- [Properties](/uSupport-documentation/docs/references/tables#usupportticket)
+- [uSupportTicketService](/uSupport-documentation/docs/references/services#usupportticketservice)
 
 ## Screenshots
 

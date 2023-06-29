@@ -25,11 +25,11 @@ A ticket status have two properties that can be used.
 - Resolved
 
 ## Notifications
-[Read more about notifications](/uSupport-documentation/docs/extend.html#extend)
+[Read more about notifications](/uSupport-documentation/docs/extending)
 
 ## References
-- [Properties](/uSupport-documentation/docs/references/tables.html#usupportticketstatus)
-- [uSupportTicketStatusService](/uSupport-documentation/docs/references/services.html#usupportticketstatusservice)
+- [Properties](/uSupport-documentation/docs/references/tables#usupportticketstatus)
+- [uSupportTicketStatusService](/uSupport-documentation/docs/references/services#usupportticketstatusservice)
 
 ## Screenshots
 
