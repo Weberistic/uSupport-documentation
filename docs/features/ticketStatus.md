@@ -9,7 +9,7 @@ nav_order: 3
 The documentation is still a work in progress. More details is coming soon.
 
 # Ticket statuses
-The ticket status helps track the progress and provide visibility into where the ticket stands in terms of resolution
+The ticket status helps track the progress and provide visibility into where the ticket stands in terms of resolution.
 
 ## Overview
 A ticket status have two properties that can be used.

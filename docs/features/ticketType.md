@@ -14,7 +14,7 @@ Ticket types are used to better categorzie tickets.
 ## Overview
 Ticket types can eaither just be regular type. Or it can contain Umbraco property.
 
-The default types are
+### Default types
 - System error
 - Page error
 - General question
@@ -36,11 +36,11 @@ You can add a Umbraco data type to a ticket type if you want the user to provide
 > - Umbraco.Grid
 
 ## Notifications
-[Read more about notifications](/uSupport-documentation/docs/extending)
+[Read more about notifications](/uSupport-documentation/docs/extend.html#extend)
 
 ## References
-- [Properties](//uSupport-documentationdocs/references/tables#usupporttickettype)
-- [uSupportTicketTypeService](/uSupport-documentation/docs/references/services#usupporttickettypeservice)
+- [Properties](//uSupport-documentationdocs/references/tables.html#usupporttickettype)
+- [uSupportTicketTypeService](/uSupport-documentation/docs/references/services.html#usupporttickettypeservice)
 
 ## Screenshots
 
