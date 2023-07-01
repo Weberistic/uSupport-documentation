@@ -13,6 +13,11 @@ The documentation is still a work in progress. More details is coming soon.
 
 Added
 {: .label .label-green }
+- [Notifications](/uSupport-documentation/docs/extending)
+
+Fixes
+{: .label .label-green }
+- The full ticket now gets returned on Update ticket
 
 
 ## Release 1.2.0 - Database compatibility
