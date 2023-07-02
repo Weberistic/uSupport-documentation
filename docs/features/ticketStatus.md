@@ -9,9 +9,16 @@ nav_order: 3
 The documentation is still a work in progress. More details is coming soon.
 
 # Ticket statuses
-A ticket status have sveral properties that can be used.
+The ticket status helps track the progress and provide visibility into where the ticket stands in terms of resolution.
 
-The default statuses are
+## Overview
+A ticket status have two properties that can be used.
+
+- Default - Newly created tickets will revice this status. **Note** only 1 status can have this value set to true.
+
+- Active - If a ticket has a status with this property set to false. The ticket will be marked as "resolved".
+
+### Default statuses
 - New
 - In progress
 - Answerd
